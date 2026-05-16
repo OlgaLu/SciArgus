@@ -1,42 +1,51 @@
-Robert Heilmayr
-Zhe Zhu
-Sherrie Wang
-Konstantin Klemmer
-Sophus zu Ermgassen
-Jonathan Proctor
-Charlotte Pelletier
-Andrew Balmford
-Luke Sanford
-Lily Xu
-Julia P G Jones
-Marc Rußwurm
-Esther Rolf
-Laura Dee
-Oisin Mac Aodha
-Sara Beery
-Maxim Neumann
-Drew Purves
-James Oakleaf
-Maria Voigt
-Christina Kennedy
-David Theobald
-Jasper Slingsby
-Adam M Wilson
-Sally Archibald
-Zander Venter
-Jorge G. Álvarez-Romero
-Tim Boucher
-Fernanda Thiesen Brum
-Hugh Possingham
-Joe Kiesecker
-Nick Wolff
-Luke Parsons
-James Erbaugh
-Peter Ellis
-Priya Shyamsundar
-Phillip Loering
-Brian Pentz
-Katherine Hayhoe
-Nichole Barger
-John Poulsen
-Geethen Singh
+Linda Harris 
+Kerry Sink 
+Daniel Dunn 
+Angel Borja 
+Roland Cormier 
+Stelios Katsanevakis 
+Vanessa Stelzenmüller 
+Ibon Galparsoro 
+Natalie Ban 
+Juliette Aminian-Biquet 
+Joachim Claudet 
+Sylvaine Giakoumi 
+Elena Gissi 
+Barbara Horta e Costa 
+David Jacoby 
+Hedley Grantham 
+Graciela Metternicht 
+Helena Calado 
+Michael Elliott 
+Catarina Frazão Santos 
+Sebastian Villasante 
+Nathan Bennett 
+Joshua Cinner 
+Malcolm Clark 
+Aggeliki Doxa 
+Carlos Duarte 
+Jeffrey Hanson 
+Noam Levin 
+Anna Metaxas 
+Robert Arlinghaus 
+Antony Knights 
+Leonie Robinson 
+Samuli Korpinen 
+Lena Bergström 
+Sara Maxwell 
+Bethan O’Leary 
+Benjamin Halpern 
+David Obura 
+Gerjan Piet 
+Elizabeth Pike 
+Hugh Possingham 
+Jane Lubchenco 
+Enric Sala 
+Ana Sequeira 
+Mark Costello 
+Neda Trifonova 
+Helena Calado 
+Kira Gee 
+Heliana Teixeira 
+Boris Worm 
+Simonetta Fraschetti
