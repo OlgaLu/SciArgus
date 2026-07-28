@@ -15,7 +15,6 @@ Barbara Horta e Costa
 David Jacoby 
 Hedley Grantham 
 Graciela Metternicht 
-Helena Calado 
 Michael Elliott 
 Catarina Frazão Santos 
 Sebastian Villasante 
