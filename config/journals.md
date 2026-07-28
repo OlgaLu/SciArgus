@@ -38,15 +38,13 @@ Journal of Marine Systems
 Progress in Oceanography
 Deep-Sea Research Part I
 Deep-Sea Research Part II
-Estuarine, Coastal and Shelf Science
+Estuarine Coastal and Shelf Science
 Ocean & Coastal Management
-Oceanography
 Continental Shelf Research
 Marine Biology
 Journal of Sea Research
 Fisheries Research
 Fisheries Oceanography
-ICES Cooperative Research Reports
 Environmental Science & Policy
 Ocean Development and International Law
 Environmental Conservation
