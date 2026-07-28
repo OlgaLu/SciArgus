@@ -7,32 +7,19 @@ Stelios Katsanevakis
 Vanessa Stelzenmüller 
 Ibon Galparsoro 
 Natalie Ban 
-Juliette Aminian-Biquet 
 Joachim Claudet 
 Sylvaine Giakoumi 
 Elena Gissi 
 Barbara Horta e Costa 
-David Jacoby 
-Hedley Grantham 
-Graciela Metternicht 
 Michael Elliott 
 Catarina Frazão Santos 
 Sebastian Villasante 
 Nathan Bennett 
 Joshua Cinner 
-Malcolm Clark 
-Aggeliki Doxa 
 Carlos Duarte 
 Jeffrey Hanson 
-Noam Levin 
-Anna Metaxas 
 Robert Arlinghaus 
-Antony Knights 
-Leonie Robinson 
 Samuli Korpinen 
-Lena Bergström 
-Sara Maxwell 
-Bethan O’Leary 
 Benjamin Halpern 
 David Obura 
 Gerjan Piet 
@@ -44,7 +31,3 @@ Ana Sequeira
 Mark Costello 
 Neda Trifonova 
 Helena Calado 
-Kira Gee 
-Heliana Teixeira 
-Boris Worm 
-Simonetta Fraschetti
