@@ -31,7 +31,6 @@ Marine Ecology Progress Series
 Fish and Fisheries
 Reviews in Fish Biology and Fisheries
 Aquatic Conservation: Marine and Freshwater Ecosystems
-Frontiers in Marine Science
 Marine Environmental Research
 Marine and Coastal Fisheries
 Journal of Marine Systems
